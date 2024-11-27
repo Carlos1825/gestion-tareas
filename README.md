@@ -51,5 +51,3 @@ server/ - Contiene el backend en Node.js (server.js).
 tareas.db - Base de datos SQLite donde se almacenan las tareas.
 git clone https://github.com/Carlos1825/gestion-tareas.git
 cd gestion-tareas
-2. Instalar dependencias
-Dentro de la carpeta del proyecto, instala las dependencias del backend (Node.js):
